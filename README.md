@@ -17,7 +17,7 @@ My Portfolio App powered mainly by bootstrap and the trio of "HTML-CSS-JS"...
 
 ![screenshot](Images/image3.png)  
 
-![screenshot](Images/iamge4.png)  
+![screenshot](Images/image4.png)  
 
 ## Contact
 If you want to contact me you can reach me at njethur@gmail.com
